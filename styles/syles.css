@@ -1,0 +1,23 @@
+.containerOne{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+    gap: 10px;
+}
+
+.containerTwo{  
+    display: grid;
+    grid-template-columns: 20% 65%;
+    justify-content: center;
+    padding: 10px;
+}
+
+.textW{
+    color: #ffffff;
+}
+
+.mant{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
